@@ -1,4 +1,4 @@
-# Mobile-Factory
+# Mobile-Factory for Factorio 0.17
 A mod that add a Mobile Factory to Factorio
 
 Factorio Mod page: https://mods.factorio.com/mod/Mobile_Factory
